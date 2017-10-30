@@ -1,0 +1,1 @@
+Das Programm kann Personendaten, Artikeldaten und Bestellungen speichern. Zudem koennen Personen, Artikel sowie alle Bestellungen, die eine Person ausgefuehrt hat, und alle Bestellungen, in denen ein Artikel bestellt wurde, gesucht werden. Die main-Funktion befindet sich in bestellungen.cpp.
